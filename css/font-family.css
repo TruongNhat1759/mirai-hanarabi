@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'GenJyuuGothic-Bold';
+  src: url('font/GenJyuuGothic-Bold.eot');
+  src: url('font/GenJyuuGothic-Bold.eot?#iefix') format('embedded-opentype'), url('font/GenJyuuGothic-Bold.woff') format('woff'), url('font/GenJyuuGothic-Bold.ttf') format('truetype'), url('font/GenJyuuGothic-Bold.woff2') format('woff');
+}
